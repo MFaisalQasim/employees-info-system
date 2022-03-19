@@ -1,0 +1,16 @@
+
+GET   http://localhost:9002/data
+Authorization: Bearer
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
+eyJpYXQiOjE2Mzk0MTY1OTF9.
+WWD8piH8b4qAKf3tPY7-wnZAET58Zwr7Wad5X4NuVVU
+
+
+
+
+
+
+POST http://localhost:9002/userlogin
+{
+    "eid":"32321"
+}
